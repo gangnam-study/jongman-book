@@ -36,9 +36,9 @@
   <tr><td>2019-11-02</td><td>ch10(1) </td><td>이호승</td><td>오지원,임동권,이재하</td><td><a href="doc/ch10/ch10-1.md">ch10(1)</a></td>
   <tr><td>2019-11-09</td><td>ch16    </td><td>오지원</td><td>김진태,이호승,임동권</td><td><a href="doc/ch16/ch16.md">ch16</a></td>
   <tr><td>2019-11-16</td><td>ch17    </td><td>김지훈</td><td>명혁,김진태,임동권</td><td><a href="doc/ch17/ch17.md">ch17</a></td>
-  <tr><td>2019-11-23</td><td>ch18(1) </td><td>이재하</td><td> </td><td> </td>
-  <tr><td>2019-11-30</td><td>        </td><td>임동권</td><td> </td><td> </td>
-  <tr><td>2019-12-07</td><td>        </td><td>명혁  </td><td> </td><td> </td>
+  <tr><td>2019-11-23</td><td>ch18    </td><td>이재하</td><td>임동권,명혁,김진태,오지원,김지훈</td><td> </td>
+  <tr><td>2019-11-30</td><td>ch19    </td><td>임동권</td><td>명혁,김진태,김지훈</td><td><a href="doc/ch19/ch19.md">ch19</a></td>
+  <tr><td>2019-12-07</td><td>ch20    </td><td>명혁  </td><td> </td><td> </td>
   <tr><td>2019-12-14</td><td>        </td><td>김진태</td><td> </td><td> </td>
   <tr><td>2019-12-21</td><td>        </td><td>이호승</td><td> </td><td> </td>
   <tr><td>2019-12-28</td><td>        </td><td>오지원</td><td> </td><td> </td>
