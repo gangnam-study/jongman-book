@@ -1,12 +1,15 @@
 ### 스터디 목표
-* 완벽히 알기는 어렵더라도 알고리즘이 이런거다라고 감 잡는것 !
+
+- 완벽히 알기는 어렵더라도 알고리즘이 이런거다라고 감 잡는것 !
 
 ### 스터디 정보
-* 참여자 : 이재하, 임동권, 이성운, 명혁, 김진태, 김지훈, 오지원, 이호승 (발표순서와 같음) 
-* 교재명 : 알고리즘 문제해결 전략 (구종만 저)
-* 진행순서 : 1권 초반부(ch1-4,ch6-8,ch10) ⟶ 2권 모두 ⟶ 1권 후반부
+
+- 참여자 : 이재하, 임동권, 이성운, 명혁, 김진태, 김지훈, 오지원, 이호승 (발표순서와 같음) 
+- 교재명 : 알고리즘 문제해결 전략 (구종만 저)
+- 진행순서 : 1권 초반부(ch1-4,ch6-8,ch10) ⟶ 2권 모두 ⟶ 1권 후반부
 
 ### 몇 가지 공유사항
+
 <table>
   <tr><th>구분</th><th>내용</th></tr>
   <tr><td><strong>모이는 시간</strong></td><td>매주 토요일 오전 2시간 + α</td></tr>
@@ -43,3 +46,35 @@
   <tr><td>2019-12-21</td><td>ch21,ch22(1)</td><td>김지훈</td> <td>명혁,김진태,임동권,이성운,김지훈</td><td><a href="doc/ch21/ch21.md">ch21</a>, <a href="doc/ch22/ch22.md">ch22(1)</a> </td>
   <tr><td>2019-12-28</td><td>        </td><td>오지원</td><td> </td><td> </td>
 </table>
+
+### 2020년 상반기 일정
+<details>
+<table>
+  <tr><th>날짜</th><th>발표내용</th><th>발표자</th><th>참가자</th><th>비고</th></tr>
+  <tr><td>2020-01-04</td><td>	</td><td>이호승</td><td>	</td><td>	</td>
+  <tr><td>2020-01-11</td><td>	</td><td>이재하</td><td>	</td><td>	</td>
+  <tr><td>2020-01-18</td><td>	</td><td>임동권</td><td>	</td><td>	</td>
+  <tr><td>2020-02-01</td><td>	</td><td>이성운</td><td>	</td><td>	</td>
+  <tr><td>2020-02-08</td><td>	</td><td>명혁</td><td>	</td><td>	</td>
+  <tr><td>2020-02-15</td><td>	</td><td>김진태</td><td>	</td><td>	</td>
+  <tr><td>2020-02-22</td><td>	</td><td>김지훈</td><td>	</td><td>	</td>
+  <tr><td>2020-02-29</td><td>	</td><td>오지원</td><td>	</td><td>	</td>
+  <tr><td>2020-03-07</td><td>	</td><td>이호승</td><td>	</td><td>	</td>
+  <tr><td>2020-03-14</td><td>	</td><td>이재하</td><td>	</td><td>	</td>
+  <tr><td>2020-03-21</td><td>	</td><td>임동권</td><td>	</td><td>	</td>
+  <tr><td>2020-03-28</td><td>	</td><td>이성운</td><td>	</td><td>	</td>
+  <tr><td>2020-04-04</td><td>	</td><td>명혁</td><td>	</td><td>	</td>
+  <tr><td>2020-04-11</td><td>	</td><td>김진태</td><td>	</td><td>	</td>
+  <tr><td>2020-04-18</td><td>	</td><td>김지훈</td><td>	</td><td>	</td>
+  <tr><td>2020-04-25</td><td>	</td><td>오지원</td><td>	</td><td>	</td>
+  <tr><td>2020-05-02</td><td>	</td><td>이호승</td><td>	</td><td>	</td>
+  <tr><td>2020-05-09</td><td>	</td><td>이재하</td><td>	</td><td>	</td>
+  <tr><td>2020-05-16</td><td>	</td><td>임동권</td><td>	</td><td>	</td>
+  <tr><td>2020-05-23</td><td>	</td><td>이성운</td><td>	</td><td>	</td>
+  <tr><td>2020-05-30</td><td>	</td><td>명혁</td><td>	</td><td>	</td>
+  <tr><td>2020-06-06</td><td>	</td><td>김진태</td><td>	</td><td>	</td>
+  <tr><td>2020-06-13</td><td>	</td><td>김지훈</td><td>	</td><td>	</td>
+  <tr><td>2020-06-20</td><td>	</td><td>오지원</td><td>	</td><td>	</td>
+  <tr><td>2020-06-27</td><td>	</td><td>이호승</td><td>	</td><td>	</td>
+</table>
+</details>
