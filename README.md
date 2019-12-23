@@ -26,7 +26,7 @@
   </tr>
 </table>
 
-### 2019년 일정
+### 2019년 하반기 일정
 <table>
   <tr><th>날짜</th><th>발표내용</th><th>발표자</th><th>참가자</th><th>비고</th></tr>
   <tr><td>2019-08-31</td><td>ch1~ch4  </td><td>명혁  </td><td>이재하,임동권,정신훈,정지완</td><td><a href="doc/ch1-3/ch1-3.md">ch1~ch3</a>, <a href="doc/ch4/ch4.md">ch4</a></td>
