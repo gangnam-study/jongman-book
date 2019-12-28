@@ -11,10 +11,10 @@
 #### 몇 가지 공유사항
 <table>
   <tr><th>구분</th><th>내용</th></tr>
-  <tr><td><strong>모이는 시간</strong></td><td>매주 토요일 오전 2시간 + α</td></tr>
-  <tr><td><strong>모이는 장소</strong></td><td>강남역 근처 스터디룸, 매주 월요일 인원확정 후 예약, 비용은 1/N</td></tr>
+  <tr><td>모이는 시간</td><td>매주 토요일 오전 2시간 + α</td></tr>
+  <tr><td>모이는 장소</td><td>강남역 근처 스터디룸, 매주 월요일 인원확정 후 예약, 비용은 1/N</td></tr>
   <tr>
-    <td><strong>Ground Rule</strong></td>
+    <td>Ground Rule</td>
     <td>
       1. 발표준비는 예제포함 3문제 이상으로 함<br>
       2. 발표자료에 제한은 없으며 칠판만 사용해도 됨<br>
