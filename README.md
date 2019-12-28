@@ -69,6 +69,8 @@
   <tr><td>2020-06-20</td><td>	</td><td>오지원</td><td>	</td><td>	</td>
   <tr><td>2020-06-27</td><td>	</td><td>이호승</td><td>	</td><td>	</td>
 </table>
+</details>
+
 
 &nbsp;  
 
