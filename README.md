@@ -33,7 +33,7 @@
 &nbsp;  
 
 
-### 2020년 상반기 일정
+### 2020년 1분기 일정
 <table>
   <tr><th>날짜</th><th>발표내용</th><th>발표자</th><th>참가자</th><th>비고</th></tr>
   <tr><td>2020-01-04</td><td>	</td><td>이호승</td><td>	</td><td>	</td>
@@ -48,6 +48,13 @@
   <tr><td>2020-03-14</td><td>	</td><td>이재하</td><td>	</td><td>	</td>
   <tr><td>2020-03-21</td><td>	</td><td>임동권</td><td>	</td><td>	</td>
   <tr><td>2020-03-28</td><td>	</td><td>이성운</td><td>	</td><td>	</td>
+</table>
+
+&nbsp;  
+
+### 2020년 2분기 일정
+<details>
+<table>
   <tr><td>2020-04-04</td><td>	</td><td>명혁</td><td>	</td><td>	</td>
   <tr><td>2020-04-11</td><td>	</td><td>김진태</td><td>	</td><td>	</td>
   <tr><td>2020-04-18</td><td>	</td><td>김지훈</td><td>	</td><td>	</td>
@@ -65,7 +72,7 @@
 
 &nbsp;  
 
-### 2019년 하반기 일정
+### 2019년 4분기 일정
 <details>
 <table>
   <tr><th>날짜</th><th>발표내용</th><th>발표자</th><th>참가자</th><th>비고</th></tr>
