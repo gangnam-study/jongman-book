@@ -1,8 +1,8 @@
 ## 스터디 소개
 <table>
   <tr><th>구분</th><th>내용</th></tr>
-  <tr><td align="center">목표</td><td><a href="https://book.naver.com/bookdb/book_detail.nhn?bid=7058764">종만북</a> 마스터하기 (1권 초반부 ⟶ 2권 모두 ⟶ 1권 후반부)</td></tr>
-  <tr><td align="center">멤버</td><td>이재하, 임동권, 이성운, 명혁, 김진태, 김지훈, 오지원, 이호승 등 8명 (발표순서도 동일) </td></tr>
+  <tr><td align="center">목표</td><td><a href="https://book.naver.com/bookdb/book_detail.nhn?bid=7058764">종만북</a> 마스터하기</td></tr>
+  <tr><td align="center">멤버</td><td>이재하, 임동권, 이성운, 명혁, 김진태, 김지훈, 오지원, 이호승 등 8명 (발표순서 동일) </td></tr>
   <tr><td align="center">시간,장소</td><td>매주 토요일 11~13시, 강남역 근처 스터디룸</td></tr>
   <tr>
     <td align="center">Ground Rule</td>
