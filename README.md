@@ -1,12 +1,12 @@
-### 소개
+## 스터디 소개
 <table>
   <tr><th>구분</th><th>내용</th></tr>
-  <tr><td>스터디 목표</td><td><a href="https://book.naver.com/bookdb/book_detail.nhn?bid=7058764">종만북</a> 마스터하기 (1권 초반부 ⟶ 2권 모두 ⟶ 1권 후반부)</td></tr>
-  <tr><td>스터디 멤버</td><td>이재하, 임동권, 이성운, 명혁, 김진태, 김지훈, 오지원, 이호승 등 8명 (발표순서도 동일) </td></tr>
-  <tr><td>모이는 시간</td><td>매주 토요일 오전 11시 ~ 오후 1시</td></tr>
-  <tr><td>모이는 장소</td><td>강남역 근처 스터디룸, 매주 월요일 인원확정 후 예약, 비용은 1/N</td></tr>
+  <tr><td align="center">목표</td><td><a href="https://book.naver.com/bookdb/book_detail.nhn?bid=7058764">종만북</a> 마스터하기 (1권 초반부 ⟶ 2권 모두 ⟶ 1권 후반부)</td></tr>
+  <tr><td align="center">멤버</td><td>이재하, 임동권, 이성운, 명혁, 김진태, 김지훈, 오지원, 이호승 등 8명 (발표순서도 동일) </td></tr>
+  <tr><td align="center">모이는 시간</td><td>매주 토요일 오전 11시 ~ 오후 1시</td></tr>
+  <tr><td align="center">모이는 장소</td><td>강남역 근처 스터디룸, 매주 월요일 인원확정 후 예약, 비용은 1/N</td></tr>
   <tr>
-    <td>Ground Rule</td>
+    <td align="center">Ground Rule</td>
     <td>
       1. 발표준비는 예제포함 3문제 이상으로 함<br>
       2. 발표자료에 제한은 없으며 칠판만 사용해도 됨<br>
@@ -19,7 +19,7 @@
 
 &nbsp;  
 
-### 일정
+## 스터디 일정
 
 #### 2020년 1분기 일정
 <table>
@@ -40,7 +40,7 @@
 
 &nbsp;  
 
-### 지난 일정
+## 지난 일정
 
 #### 2019년 4분기 일정
 <details>
