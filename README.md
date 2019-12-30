@@ -59,7 +59,7 @@
   <tr><td>2019-11-30</td><td>ch19    </td><td>임동권</td><td>명혁,김진태,김지훈</td><td><a href="doc/ch19/ch19.md">ch19</a></td>
   <tr><td>2019-12-07</td><td>ch20(1) </td><td>명혁  </td><td>김진태,임동권,이성운,김지훈</td><td><a href="doc/ch20/ch20.md#문자열-검색--단순한-알고리즘">ch20(1)</a></td>
   <tr><td>2019-12-14</td><td>ch20(2) </td><td>김진태</td><td>명혁,임동권,이성운,이호승,오지원</td><td><a href="doc/ch20/ch20.md#접미사-배열-알고리즘--단순한-버전">ch20(2)</a></td>
-  <tr><td>2019-12-21</td><td>ch21,ch22(1)</td><td>김지훈</td> <td>명혁,김진태,임동권,이성운</td><td><a href="doc/ch21/ch21.md">ch21</a>, <a href="doc/ch22/ch22.md">ch22(1)</a> </td>
-  <tr><td>2019-12-28</td><td>        </td><td>오지원</td><td> </td><td> </td>
+  <tr><td>2019-12-21</td><td>ch21,ch22(1)</td><td>김지훈</td><td>명혁,김진태,임동권,이성운</td><td><a href="doc/ch21/ch21.md">ch21</a>, <a href="doc/ch22/ch22.md">ch22(1)</a> </td>
+  <tr><td>2019-12-28</td><td>ch22(2)</td><td>오지원</td><td>김진태,김지훈,명혁,임동권,이성운,이호승</td><td><a href="doc/ch22/ch22.6_treap.md">ch22(2)</a> </td>
 </table>
 </details>
