@@ -23,7 +23,7 @@
 #### 2020년 1분기
 <table>
   <tr><th>날짜</th><th>발표내용</th><th>발표자</th><th>참가자</th><th>비고</th></tr>
-  <tr><td>2020-01-04</td><td>	</td><td>이호승</td><td>	</td><td>	</td>
+  <tr><td>2020-01-04</td><td>	</td><td>이호승</td><td>김진태,유민환,김지훈,임동권,이성운,명혁</td><td>	</td>
   <tr><td>2020-01-11</td><td>	</td><td>이재하</td><td>	</td><td>	</td>
   <tr><td>2020-01-18</td><td>	</td><td>임동권</td><td>	</td><td>	</td>
   <tr><td>2020-02-01</td><td>	</td><td>이성운</td><td>	</td><td>	</td>
