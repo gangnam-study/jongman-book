@@ -2,7 +2,7 @@
 <table>
   <tr><th>구분</th><th>내용</th></tr>
   <tr><td align="center">목표</td><td><a href="https://book.naver.com/bookdb/book_detail.nhn?bid=7058764">종만북</a> 마스터하기</td></tr>
-  <tr><td align="center">멤버</td><td>이재하, 임동권, 이성운, 명혁, 김진태, 김지훈, 오지원, 이호승 등 8명 (발표순서 동일) </td></tr>
+  <tr><td align="center">멤버</td><td>임동권, 이성운, 명혁, 김지훈, 오지원, 이호승 등 6명 (발표순서 동일) </td></tr>
   <tr><td align="center">시간,장소</td><td>매주 토요일 11~13시, 강남역 근처 스터디룸</td></tr>
   <tr>
     <td align="center">Ground Rule</td>
@@ -27,14 +27,14 @@
   <tr><td>2020-01-11</td><td>	</td><td>임동권</td><td>김진태,김지훈,이성운,명혁</td><td><a href="doc/ch24-25/ch24-25.md">ch24-25</a>	</td>
   <tr><td>2020-01-18</td><td>	</td><td>이성운</td><td>	</td><td>	</td>
   <tr><td>2020-02-01</td><td>	</td><td>명혁</td><td> </td><td> </td>
-  <tr><td>2020-02-08</td><td>	</td><td>김진태</td><td>	</td><td>	</td>
-  <tr><td>2020-02-15</td><td>	</td><td>김지훈</td><td>	</td><td>	</td>
-  <tr><td>2020-02-22</td><td>	</td><td>오지원</td><td>	</td><td>	</td>
-  <tr><td>2020-02-29</td><td>	</td><td>이호승</td><td>	</td><td>	</td>
-  <tr><td>2020-03-07</td><td>	</td><td>이재하</td><td>	</td><td>	</td>
-  <tr><td>2020-03-14</td><td>	</td><td>임동권</td><td>	</td><td>	</td>
-  <tr><td>2020-03-21</td><td>	</td><td>이성운</td><td>	</td><td>	</td>
-  <tr><td>2020-03-28</td><td>	</td><td>명혁</td><td> </td><td> </td>
+  <tr><td>2020-02-08</td><td>	</td><td>김지훈</td><td>	</td><td>	</td>
+  <tr><td>2020-02-15</td><td>	</td><td>오지원</td><td>	</td><td>	</td>
+  <tr><td>2020-02-22</td><td>	</td><td>이호승</td><td>	</td><td>	</td>
+  <tr><td>2020-02-29</td><td>	</td><td>임동권</td><td>	</td><td>	</td>
+  <tr><td>2020-03-07</td><td>	</td><td>이성운</td><td>	</td><td>	</td>
+  <tr><td>2020-03-14</td><td>	</td><td>명혁</td><td>	</td><td>	</td>
+  <tr><td>2020-03-21</td><td>	</td><td>김지훈</td><td>	</td><td>	</td>
+  <tr><td>2020-03-28</td><td>	</td><td>오지원</td><td> </td><td> </td>
 </table>
 
 &nbsp;  
