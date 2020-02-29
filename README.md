@@ -26,7 +26,7 @@
   <tr><td>2020-01-04</td><td>이호승</td><td>김진태,김지훈,임동권,이성운,명혁</td><td><a href="doc/ch23-24/ch23-24.md"</a>ch23-24.4</td>
   <tr><td>2020-01-11</td><td>임동권</td><td>김진태,김지훈,이성운,명혁</td><td><a href="doc/ch24-25/ch24-25.md"</a>ch24.5-25</td>
   <tr><td>2020-02-01</td><td>이성운</td><td>명혁,임동권,김지훈,유민환</td><td><a href="doc/ch26/ch26_Trie.md"</a>ch26</td>
-  <tr><td>2020-02-08</td><td>명혁</td><td> </td><td><a href="doc/ch27-28/ch27-28(1).md"</a>ch27-28(1)</td>
+  <tr><td>2020-02-08</td><td>명혁</td><td>임동권,이성운,유민환</td><td><a href="doc/ch27-28/ch27-28(1).md"</a>ch27-28(1)</td>
   <tr><td>2020-02-15</td><td>김지훈</td><td>	</td><td>	</td>
   <tr><td>2020-02-22</td><td>오지원</td><td>	</td><td>	</td>
   <tr><td>2020-02-29</td><td>이호승</td><td>	</td><td>	</td>
