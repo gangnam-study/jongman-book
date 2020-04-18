@@ -99,7 +99,7 @@
 
   ```java
   int solve(State initialState, State finalState) {
-  		var queue = new LinkedList<State>();
+      var queue = new LinkedList<State>();
       queue.addLast(initialState);
       count[initialState.diskState] = 0;
   
@@ -210,12 +210,6 @@
 
   - 가중치가 있는 그래프: 단 하나의 가장 좋은 알고리즘이 존재하는 것이 아님. 그래프 종류와 특성에 따라 선택
 
-    - 음수 사이클이 존재하는 그래프
-
-      ![](images/02.jpg)
-
-      - 최단 경로를 구할 수 없음. 음수 사이클의 유무를 확인하는 알고리즘 (**벨만-포드 알고리즘**) 만 존재
-
     - 단일 시작점 알고리즘 (하나의 시작점에서 다른 모든 정점까지 가는 최단거리를 구하는 알고리즘)
 
       - **다익스트라 (Dijkstra) 알고리즘** 이 대표적임
@@ -224,7 +218,12 @@
 
       - **플로이드의 최단 경로 알고리즘** 이 대표적임
 
-        
+    - 음수 사이클이 존재하는 그래프
+
+      ![](images/02.jpg)
+
+      - 최단 경로를 구할 수 없음. 음수 사이클의 유무를 확인하는 알고리즘 (**벨만-포드 알고리즘**) 만 존재
+
 
 - 다익스트라 (Dijkstra) 알고리즘
 
