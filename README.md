@@ -30,10 +30,10 @@
   <tr><td>2020-03-21</td><td>김지훈</td><td>명혁,임동권,이성훈,유민환,김지훈</td><td><a href="doc/ch27-28/ch28(2).md"</a>ch28(2)</td>
   <tr><td>2020-04-04</td><td>이호승</td><td>명혁,임동권,이성훈,유민환</td><td>	</td>
   <tr><td>2020-04-18</td><td>임동권</td><td>명혁,임동권,이성훈,김지훈,이호승</td><td>	</td>
-  <tr><td>2020-04-25</td><td>이성운</td><td>	</td><td>	</td>
-  <tr><td>2020-05-02</td><td>명혁</td><td>	</td><td>	</td>
-  <tr><td>2020-05-09</td><td>김지훈</td><td> </td><td>	</td>
-  <tr><td>2020-05-16</td><td>유민환</td><td>	</td><td>	</td>
+  <tr><td>2020-05-02</td><td>이성운</td><td>	</td><td>	</td>
+  <tr><td>2020-05-09</td><td>명혁</td><td>	</td><td>	</td>
+  <tr><td>2020-05-16</td><td>김지훈</td><td> </td><td>	</td>
+  <tr><td>2020-05-23</td><td>유민환</td><td>	</td><td>	</td>
 </table>
 
 
