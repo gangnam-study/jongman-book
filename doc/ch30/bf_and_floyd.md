@@ -24,11 +24,156 @@
 
 ### Relax 과정과 종료 조건
 
+데이터 소실
+
+![](images/04.jpg)
+
+![](images/05.jpg)
+
 ### 음수 사이클 판정
+
+데이터 소실
+
+![](images/06.jpg)
 
 ### 구현
 
+데이터 소실
+
+```java
+package me.seongwoon.ch20;
+
+import java.util.Arrays;
+import java.util.List;
+
+public class BellmanFord {
+
+    List<List<Pair>> adj;
+
+    public int[] bellmanFord(int src) {
+        final int vertexCount = adj.size();
+
+        final int[] upper = new int[vertexCount];
+        Arrays.fill(upper, Integer.MAX_VALUE);
+        upper[src] = 0;
+
+        boolean updated = false;
+
+        for(int iter = 0; iter < vertexCount; iter++) {
+            updated = false;
+            for(int here = 0; here < vertexCount; here++) {
+                for(int i = 0; i < adj.get(here).size(); i++) {
+                    final int there = adj.get(here).get(i).vertexNum - 1;
+                    final int cost = adj.get(here).get(i).cost;
+                    if(upper[there] > upper[here] + cost) {
+                        upper[there] = upper[here] + cost;
+                        updated = true;
+                    }
+                }
+            }
+            if(!updated) {
+                break;
+            }
+        }
+
+        if(updated) {
+            Arrays.fill(upper, Integer.MAX_VALUE);
+        }
+
+        return upper;
+    }
+
+    public BellmanFord(List<List<Pair>> adj) {
+        this.adj = adj;
+    }
+}
+```
+
+```java
+package me.seongwoon.ch20;
+
+import java.util.List;
+
+import org.junit.Assert;
+import org.junit.Test;
+
+public class BellmanFordTest {
+
+    @Test
+    public void test() {
+        final List<Pair> v1 = List.of(new Pair(2, 6), new Pair(4, 7));
+        final List<Pair> v2 = List.of(new Pair(3, 5), new Pair(4, 8), new Pair(5, -4));
+        final List<Pair> v3 = List.of(new Pair(2, -2));
+        final List<Pair> v4 = List.of(new Pair(3, -3), new Pair(5, 9));
+        final List<Pair> v5 = List.of(new Pair(1, 2), new Pair(3, 7));
+
+        final BellmanFord bf = new BellmanFord(List.of(v1, v2, v3, v4, v5));
+        final int[] result = bf.bellmanFord(0);
+
+        final int[] expected = { 0, 2, 4, 7, -2};
+        Assert.assertArrayEquals(expected, result);
+    }
+}
+```
+
 ### 문제: 시간여행(문제 ID: TIMETRIP, 난이도: 중)
+
+데이터 소실
+
+![](images/07.jpg)
+
+```java
+package me.seongwoon.ch20;
+
+import java.util.Arrays;
+import java.util.List;
+
+public class TimeTrip {
+    List<List<Pair>> adj;
+    List<List<Boolean>> reachable;
+
+    public int bellmanFord(int src, int target) {
+        final int vertexCount = adj.size();
+
+        final int[] upper = new int[vertexCount];
+        Arrays.fill(upper, Integer.MAX_VALUE);
+        upper[src] = 0;
+
+        for(int iter = 0; iter < vertexCount; iter++) {
+            for(int here = 0; here < vertexCount; here++) {
+                for(int i = 0; i < adj.get(here).size(); i++) {
+                    final int there = adj.get(here).get(i).vertexNum - 1;
+                    final int cost = adj.get(here).get(i).cost;
+                    if(upper[there] > upper[here] + cost) {
+                        upper[there] = upper[here] + cost;
+                    }
+                }
+            }
+        }
+
+        for(int here = 0; here < vertexCount; here++) {
+            for(int i = 0; i < adj.get(here).size(); i++) {
+                final int there = adj.get(here).get(i).vertexNum - 1;
+                final int cost = adj.get(here).get(i).cost;
+                if(upper[here] + cost < upper[there]) {
+                    if(reachable.get(src).get(here) && reachable.get(here).get(target)) {
+                        return Integer.MIN_VALUE;
+                    }
+                }
+            }
+        }
+
+        return upper[target];
+    }
+
+    public TimeTrip(List<List<Pair>> adj, List<List<Boolean>> reachable) {
+        this.adj = adj;
+        this.reachable = reachable;
+    }
+}
+```
+
+
 
 ## 플로이드 와샬(Floyd Warshall) 알고리즘
 
@@ -162,7 +307,7 @@ https://www.algospot.com/judge/problem/read/DRUNKEN
 >
 > 송년회의 계절인 연말연시가 다가오면 시내 곳곳에서 음주운전 단속을 진행합니다. 단속은 교통안전을 위해 필수적이지만 불가피한 교통체증을 불러오기도 합니다.
 >
-> ![](/Users/seongwoon/Workspace/Seongwoon/jongman-book/doc/ch30/images/09.jpg)
+> ![](images/09.jpg)
 >
 > 이 문제에서 서울의 지도는 위 그림처럼 여러 개의 장소들과 이들을 연결하는 도로로 구성됩니다. 모든 도로는 양방향 통행이 가능하며, 통항할 때마다 일정한 시간이 걸립니다. 경찰청은 날마다 한 장소를 골라 음주 운전 단속을 시행하며, 어디에서 음주 운전 단속을 하고 있는지 미리 알 방법은 없습니다. 음주 운전 단속을 하면 교통 체증이 심해져 해당 장소를 지나가는 경로들은 전부 일정 시간만큼 지연됩니다. 그림에서는 원 안에 적힌 숫자들이 해당 장소에서 음주 운전 단속을 할 경우 지연되는 시간을 나타냅니다. 단 경로의 출발 장소나 도착 장소에서 단속을 하는 것은 상관 없다고 합시다.
 >
@@ -293,7 +438,7 @@ https://www.algospot.com/judge/problem/read/PROMISES
 >
 > 어떤 고속도로를 새로 건설할 당위성이 있기 위해서는 기존에 고속도로를 통해 오갈 수 없던 두 도시가 새로 연결되거나, 두 도시를 오가는 데 걸리는 시간이 단축되어야 합니다. 의권이는 공약 중 일부 고속도로는 이 두 조건중 아무 것도 만족하지 못한다는 사실을 알아냈습니다.
 >
-> ![](/Users/seongwoon/Workspace/Seongwoon/jongman-book/doc/ch30/images/10.jpg)
+> ![](images/10.jpg)
 >
 > 위 그림과 같이 4개의 도시 a, b, c, d가 있는데, 이 중 a와 b, a와 d는 굵은 실선으로 표시된 고속도로들로 연결되어 있다고 합시다. 각 선에 표시된 숫자는 두 도시를 오가는 데 걸리는 시간을 나타냅니다. 이 때 a와 c사이에 새 고속도로를 건설한다고 합시다. c는 다른 도시와 고속도로를 통해서 왕복할 방법이 없었으므로, 이 고속도로는 의미가 있습니다. 그런데 그 다음 해에 b와 c를 잇는 고속도로를 건설한다고 합시다. 이 고속도로가 없더라도 a를 경유하면 b와 c 사이를 6시간만에 움직일 수 있으므로, 편도 6시간이 걸리는 이 고속도로는 아무런 의미가 없습니다.
 >
