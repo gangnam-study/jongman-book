@@ -361,7 +361,9 @@ https://www.algospot.com/judge/problem/read/DRUNKEN
 <details>
   <summary>풀이</summary>
 
-- 정점을 단속에 걸리는 시간 별로 정렬한 뒤, 단속에 시간이 적게 걸리는 정점부터 경유점으로 사용
+- 정점에서 소요되는 단속 시간 기준(오름차순)으로 정렬한 뒤, 단속에 시간이 적게 걸리는 정점부터 경유점으로 사용
+- **경로 길이 + 정점 가중치**를 최소화
+- 알고리즘이 진행될수록 시작점-도착점 사이의 최단거리는 감소하고, 경유점 중 최대 정점 가중치는 증가
 
 ```java
 package me.seongwoon.ch20;
@@ -377,40 +379,37 @@ public class Drunken {
 
     public int[][] solve() {
         final int vertexCount = adj.length;
-        final int[][] weight = new int[vertexCount][vertexCount];
+        final int[][] worst = new int[vertexCount][vertexCount];
 
-        final List<int[]> orderedCost = new ArrayList<>();
+        final List<int[]> vertexOrderByCost = new ArrayList<>();
         for(int i = 0; i < vertexCount; i++) {
-            orderedCost.add(new int[] { delay[i], i });
+            vertexOrderByCost.add(new int[] { delay[i], i });
         }
-        orderedCost.sort(Comparator.comparingInt(o -> o[0]));
+        vertexOrderByCost.sort(Comparator.comparingInt(o -> o[0]));
 
         for(int i = 0; i < vertexCount; i++) {
             for(int j = 0; j < vertexCount; j++) {
                 if(i == j) {
-                    weight[i][j] = 0;
+                    worst[i][j] = 0;
                 } else {
-                    weight[i][j] = adj[i][j];
+                    worst[i][j] = adj[i][j];
                 }
             }
         }
 
         for(int k = 0; k < vertexCount; k++) {
-            final int viaVertexNumber = orderedCost.get(k)[1];
+            final int viaVertexNumber = vertexOrderByCost.get(k)[1];
             for(int i = 0; i < vertexCount; i++) {
                 for(int j = 0; j < vertexCount; j++) {
                     final int directCost = adj[i][j];
                     final int viaCost = adj[i][viaVertexNumber] + adj[viaVertexNumber][j];
                     adj[i][j] = Math.min(directCost, viaCost);
-                    weight[i][j] = Math.min(adj[i][viaVertexNumber] 
-                                            + delay[viaVertexNumber] 
-                                            + adj[viaVertexNumber][j],
-                                            weight[i][j]);
+                    worst[i][j] = Math.min(adj[i][viaVertexNumber] + delay[viaVertexNumber] + adj[viaVertexNumber][j], worst[i][j]);
                 }
             }
         }
 
-        return weight;
+        return worst;
     }
 
     public Drunken(int[][] adj, int[] delay) {
@@ -420,7 +419,7 @@ public class Drunken {
 }
 ```
 
-- 가장 작은 최악의 예상 시간 계산의 시간 복잡도: O(V^3)
+- 가장 최선의 최악의 예상 시간 계산 방법의 시간 복잡도: O(V^3)
 - 테스트 케이스 검색의 시간 복잡도: O(1)
 
 </details>
@@ -482,8 +481,8 @@ https://www.algospot.com/judge/problem/read/PROMISES
 <details>
   <summary>풀이</summary>
 
-- 정점 대신 간선을 기반으로한 알고리즘으로 계산을 수행
-- 추가되는 고속도로(간선)를 추가하여 새롭게 계산을 수행
+- 정점 대신 간선을 기반으로한 알고리즘으로 변형
+- 새로운 고속도로 경로를 추가하여 기존 최단 경로와 비교
 
 ```java
 package me.seongwoon.ch20;
