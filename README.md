@@ -31,7 +31,7 @@
   <tr><td>2020-04-04</td><td>이호승</td><td>명혁,임동권,이성운,유민환</td><td>	</td>
   <tr><td>2020-04-18</td><td>임동권</td><td>명혁,임동권,이성운,김지훈,이호승</td><td><a href="doc/ch30/dijkstra.md"</a>Dijkstra</td>
   <tr><td>2020-05-02</td><td>이성운</td><td>명혁,임동권,이성운,이호승</td><td><a href="doc/ch30/bf_and_floyd.md"</a>Bellman-Ford & Floyd</td>
-  <tr><td>2020-05-09</td><td>명혁</td><td>	</td><td>	</td>
+  <tr><td>2020-05-09</td><td>명혁</td><td>임동권,이성운,김지훈</td><td><a href="doc/ch31/ch31.md"</a>ch31</td>
   <tr><td>2020-05-16</td><td>김지훈</td><td> </td><td>	</td>
   <tr><td>2020-05-23</td><td>유민환</td><td>	</td><td>	</td>
 </table>
