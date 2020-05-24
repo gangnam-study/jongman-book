@@ -23,8 +23,8 @@
 #### 2020년 2분기
 <table>
   <tr><th>날짜</th><th>발표자</th><th>참가자</th><th>발표내용</th></tr>
-  <tr><td>2020-05-30</td><td>이호승</td><td>ch31</td><td> </td>
-  <tr><td>2020-06-05</td><td>유민환</td><td>ch6</td><td> </td>
+  <tr><td>2020-05-30</td><td>이호승</td><td></td><td>ch31</td>
+  <tr><td>2020-06-05</td><td>유민환</td><td></td><td>ch6</td>
   <tr><td>2020-06-12</td><td>임동권</td><td> </td><td> </td>
   <tr><td>2020-06-19</td><td>이성운</td><td> </td><td> </td>
   <tr><td>2020-06-26</td><td>명혁  </td><td> </td><td> </td>
