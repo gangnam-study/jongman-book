@@ -43,17 +43,17 @@
 
 ## 지난 일정
 
-#### 2019년
+#### 2019년 하반기
 <details>
 <table>
   <tr><th>날짜</th><th>발표자</th><th>참가자</th><th>발표내용</th></tr>
-  <tr><td>2019-08-31</td><td>명혁  </td><td>이재하,임동권,정신훈,정지완</td><td><a href="doc/ch1-3/ch1-3.md">ch1~ch3</a>, <a href="doc/ch4/ch4.md">ch4</a></td>
-  <tr><td>2019-09-14</td><td>명혁  </td><td>임동권,김진태     </td><td><a href="doc/ch6/ch6.md">ch6</a></td>
-  <tr><td>2019-09-21</td><td>김진태</td><td>임동권,명혁       </td><td><a href="doc/ch7/ch7.md">ch7</a></td>
-  <tr><td>2019-10-05</td><td>이재하</td><td>임동권,명혁,김진태 </td><td><a href="doc/ch8/ch8(1).md">ch8(1)</a></td>
-  <tr><td>2019-10-12</td><td>임동권</td><td>이재하,명혁,김진태,김지훈,오지원,이호승,허민경 </td><td><a href="doc/ch8/ch8(2).md">ch8(2)</a></td>
-  <tr><td>2019-10-19</td><td>명혁  </td><td>임동권,이재하,김진태,오지원,허민경  </td><td><a href="doc/ch8/ch8(3).md">ch8(3)</a></td>
-  <tr><td>2019-10-26</td><td>김진태</td><td>이재하,임동권,김지훈,오지원,이호승,허민경 </td><td><a href="doc/ch8/ch8(4).md">ch8(4)</a> </td>
+  <tr><td>2019-08-31</td><td>명혁  </td><td>이재하,임동권,정신훈,정지완</td><td><a href="doc/ch01-03/ch01-03.md">ch1~ch3</a>, <a href="doc/ch4/ch4.md">ch4</a></td>
+  <tr><td>2019-09-14</td><td>명혁  </td><td>임동권,김진태     </td><td><a href="doc/ch06/ch06.md">ch6</a></td>
+  <tr><td>2019-09-21</td><td>김진태</td><td>임동권,명혁       </td><td><a href="doc/ch07/ch07.md">ch7</a></td>
+  <tr><td>2019-10-05</td><td>이재하</td><td>임동권,명혁,김진태 </td><td><a href="doc/ch08/ch08(1).md">ch8(1)</a></td>
+  <tr><td>2019-10-12</td><td>임동권</td><td>이재하,명혁,김진태,김지훈,오지원,이호승,허민경 </td><td><a href="doc/ch08/ch08(2).md">ch8(2)</a></td>
+  <tr><td>2019-10-19</td><td>명혁  </td><td>임동권,이재하,김진태,오지원,허민경  </td><td><a href="doc/ch08/ch08(3).md">ch8(3)</a></td>
+  <tr><td>2019-10-26</td><td>김진태</td><td>이재하,임동권,김지훈,오지원,이호승,허민경 </td><td><a href="doc/ch08/ch08(4).md">ch8(4)</a> </td>
   <tr><td>2019-11-02</td><td>이호승</td><td>오지원,임동권,이재하</td><td><a href="doc/ch10/ch10(1).md">ch10(1)</a></td>
   <tr><td>2019-11-09</td><td>오지원</td><td>김진태,이호승,임동권</td><td><a href="doc/ch16/ch16.md">ch16</a></td>
   <tr><td>2019-11-16</td><td>김지훈</td><td>명혁,김진태,임동권</td><td><a href="doc/ch17/ch17.md">ch17</a></td>
@@ -79,6 +79,6 @@
   <tr><td>2020-04-18</td><td>임동권</td><td>명혁,임동권,이성운,김지훈,이호승</td><td><a href="doc/ch30/dijkstra.md"</a>Dijkstra</td>
   <tr><td>2020-05-02</td><td>이성운</td><td>명혁,임동권,이성운,이호승</td><td><a href="doc/ch30/bf_and_floyd.md"</a>Bellman-Ford & Floyd</td>
   <tr><td>2020-05-09</td><td>명혁  </td><td>임동권,이성운,김지훈</td><td><a href="doc/ch31/ch31.md"</a>ch31</td>
-  <tr><td>2020-05-23</td><td>김지훈</td><td>명혁,이성운,이호승</td><td><a href="doc/ch32/ch22(1).md.md"</a>ch31(1)</td>
+  <tr><td>2020-05-23</td><td>김지훈</td><td>명혁,이성운,이호승</td><td><a href="doc/ch32/ch32(1)md"</a>ch32(1)</td>
 </table>
 </details>
