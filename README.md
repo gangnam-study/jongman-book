@@ -23,8 +23,8 @@
 #### 2020년 2분기
 <table>
   <tr><th>날짜</th><th>발표자</th><th>참가자</th><th>발표내용</th></tr>
-  <tr><td>2020-05-30</td><td>이호승</td><td> </td><td> </td>
-  <tr><td>2020-06-05</td><td>유민환</td><td> </td><td> </td>
+  <tr><td>2020-05-30</td><td>이호승</td><td>ch31</td><td> </td>
+  <tr><td>2020-06-05</td><td>유민환</td><td>ch6</td><td> </td>
   <tr><td>2020-06-12</td><td>임동권</td><td> </td><td> </td>
   <tr><td>2020-06-19</td><td>이성운</td><td> </td><td> </td>
   <tr><td>2020-06-26</td><td>명혁  </td><td> </td><td> </td>
@@ -66,9 +66,7 @@
 </table>
 </details>
 
-&nbsp;
-
-#### 2020년 1분기
+#### 2020년 상반기
 <details>
 <table>
   <tr><th>날짜</th><th>발표자</th><th>참가자</th><th>발표내용</th></tr>
@@ -81,6 +79,6 @@
   <tr><td>2020-04-18</td><td>임동권</td><td>명혁,임동권,이성운,김지훈,이호승</td><td><a href="doc/ch30/dijkstra.md"</a>Dijkstra</td>
   <tr><td>2020-05-02</td><td>이성운</td><td>명혁,임동권,이성운,이호승</td><td><a href="doc/ch30/bf_and_floyd.md"</a>Bellman-Ford & Floyd</td>
   <tr><td>2020-05-09</td><td>명혁  </td><td>임동권,이성운,김지훈</td><td><a href="doc/ch31/ch31.md"</a>ch31</td>
-  <tr><td>2020-05-23</td><td>김지훈</td><td>명혁,이성운,이호승</td><td>	</td>
+  <tr><td>2020-05-23</td><td>김지훈</td><td>명혁,이성운,이호승</td><td><a href="doc/ch32/ch22(1).md.md"</a>ch31(1)</td>
 </table>
 </details>
