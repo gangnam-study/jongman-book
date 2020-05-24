@@ -47,7 +47,7 @@
 <details>
 <table>
   <tr><th>날짜</th><th>발표자</th><th>참가자</th><th>발표내용</th></tr>
-  <tr><td>2019-08-31</td><td>명혁  </td><td>이재하,임동권,정신훈,정지완</td><td><a href="doc/ch01-03/ch01-03.md">ch1~ch3</a>, <a href="doc/ch4/ch4.md">ch4</a></td>
+  <tr><td>2019-08-31</td><td>명혁  </td><td>이재하,임동권,정신훈,정지완</td><td><a href="doc/ch01-03/ch01-03.md">ch1~ch3</a>, <a href="doc/ch04/ch04.md">ch4</a></td>
   <tr><td>2019-09-14</td><td>명혁  </td><td>임동권,김진태     </td><td><a href="doc/ch06/ch06.md">ch6</a></td>
   <tr><td>2019-09-21</td><td>김진태</td><td>임동권,명혁       </td><td><a href="doc/ch07/ch07.md">ch7</a></td>
   <tr><td>2019-10-05</td><td>이재하</td><td>임동권,명혁,김진태 </td><td><a href="doc/ch08/ch08(1).md">ch8(1)</a></td>
