@@ -23,7 +23,7 @@
 #### 2020년 하반기
 <table>
   <tr><th>날짜</th><th>발표자</th><th>참가자</th><th>발표내용</th></tr>
-  <tr><td>2020-05-30</td><td>이호승</td><td></td><td>ch31</td>
+  <tr><td>2020-05-30</td><td>이호승</td><td></td><td><a href="2020_1st/ch32/ch32(2).md"</a>ch32(2)</td>
   <tr><td>2020-06-06</td><td>유민환</td><td></td><td>ch6</td>
   <tr><td>2020-06-13</td><td>임동권</td><td> </td><td> </td>
   <tr><td>2020-06-20</td><td>이성운</td><td> </td><td> </td>
