@@ -2,8 +2,8 @@
 <table>
   <tr><th>구분</th><th>내용</th></tr>
   <tr><td align="center">목표</td><td><a href="https://book.naver.com/bookdb/book_detail.nhn?bid=7058764">종만북</a> 마스터하기</td></tr>
-  <tr><td align="center">멤버</td><td>이호승, 유민환, 임동권, 이성운, 명혁, 김지훈 등 6명 (발표순서 동일) </td></tr>
-  <tr><td align="center">시간,장소</td><td>매주 토요일 11~13시, 강남역 근처 스터디룸</td></tr>
+  <tr><td align="center">멤버</td><td>이호승, 유민환, 임동권, 이성운, 명혁, 김지훈, 박창훈 등 7명 (발표순서 동일) </td></tr>
+  <tr><td align="center">시간,장소</td><td>매주 토요일 11~13시, 코로나로 인한 온라인 스터디</td></tr>
   <tr>
     <td align="center">Ground Rule</td>
     <td>
@@ -20,10 +20,10 @@
 
 ## 스터디 일정
 
-#### 2020년 2분기
+#### 2020년 하반기
 <table>
   <tr><th>날짜</th><th>발표자</th><th>참가자</th><th>발표내용</th></tr>
-  <tr><td>2020-05-30</td><td>이호승</td><td>임동권, 명혁, 이성운, 박창훈</td><td>ch31</td>
+  <tr><td>2020-05-30</td><td>이호승</td><td>임동권, 명혁, 이성운, 박창훈</td><td><a href="2020_1st/ch32/ch32(2).md"</a>ch32(2)</td>
   <tr><td>2020-06-05</td><td>유민환</td><td></td><td>ch6</td>
   <tr><td>2020-06-12</td><td>임동권</td><td> </td><td> </td>
   <tr><td>2020-06-19</td><td>이성운</td><td> </td><td> </td>
@@ -47,13 +47,13 @@
 <details>
 <table>
   <tr><th>날짜</th><th>발표자</th><th>참가자</th><th>발표내용</th></tr>
-  <tr><td>2019-08-31</td><td>명혁  </td><td>이재하,임동권,정신훈,정지완</td><td><a href="2019_2nd/ch01-03/ch01-03.md">ch1~ch3</a>, <a href="2019_2nd/ch04/ch04.md">ch4</a></td>
-  <tr><td>2019-09-14</td><td>명혁  </td><td>임동권,김진태     </td><td><a href="2019_2nd/ch06/ch06.md">ch6</a></td>
-  <tr><td>2019-09-21</td><td>김진태</td><td>임동권,명혁       </td><td><a href="2019_2nd/ch07/ch07.md">ch7</a></td>
-  <tr><td>2019-10-05</td><td>이재하</td><td>임동권,명혁,김진태 </td><td><a href="2019_2nd/ch08/ch08(1).md">ch8(1)</a></td>
-  <tr><td>2019-10-12</td><td>임동권</td><td>이재하,명혁,김진태,김지훈,오지원,이호승,허민경 </td><td><a href="2019_2nd/ch08/ch08(2).md">ch8(2)</a></td>
-  <tr><td>2019-10-19</td><td>명혁  </td><td>임동권,이재하,김진태,오지원,허민경  </td><td><a href="2019_2nd/ch08/ch08(3).md">ch8(3)</a></td>
-  <tr><td>2019-10-26</td><td>김진태</td><td>이재하,임동권,김지훈,오지원,이호승,허민경 </td><td><a href="2019_2nd/ch08/ch08(4).md">ch8(4)</a> </td>
+  <tr><td>2019-08-31</td><td>명혁  </td><td>이재하,임동권,정신훈,정지완</td><td><a href="2019_2nd/ch01-03/ch01-03.md">ch01~ch03</a>, <a href="2019_2nd/ch04/ch04.md">ch04</a></td>
+  <tr><td>2019-09-14</td><td>명혁  </td><td>임동권,김진태     </td><td><a href="2019_2nd/ch06/ch06.md">ch06</a></td>
+  <tr><td>2019-09-21</td><td>김진태</td><td>임동권,명혁       </td><td><a href="2019_2nd/ch07/ch07.md">ch07</a></td>
+  <tr><td>2019-10-05</td><td>이재하</td><td>임동권,명혁,김진태 </td><td><a href="2019_2nd/ch08/ch08(1).md">ch08(1)</a></td>
+  <tr><td>2019-10-12</td><td>임동권</td><td>이재하,명혁,김진태,김지훈,오지원,이호승,허민경 </td><td><a href="2019_2nd/ch08/ch08(2).md">ch08(2)</a></td>
+  <tr><td>2019-10-19</td><td>명혁  </td><td>임동권,이재하,김진태,오지원,허민경  </td><td><a href="2019_2nd/ch08/ch08(3).md">ch08(3)</a></td>
+  <tr><td>2019-10-26</td><td>김진태</td><td>이재하,임동권,김지훈,오지원,이호승,허민경 </td><td><a href="2019_2nd/ch08/ch08(4).md">ch08(4)</a> </td>
   <tr><td>2019-11-02</td><td>이호승</td><td>오지원,임동권,이재하</td><td><a href="2019_2nd/ch10/ch10(1).md">ch10(1)</a></td>
   <tr><td>2019-11-09</td><td>오지원</td><td>김진태,이호승,임동권</td><td><a href="2019_2nd/ch16/ch16.md">ch16</a></td>
   <tr><td>2019-11-16</td><td>김지훈</td><td>명혁,김진태,임동권</td><td><a href="2019_2nd/ch17/ch17.md">ch17</a></td>
