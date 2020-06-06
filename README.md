@@ -74,7 +74,7 @@
   <tr><td>2020-02-01</td><td>이성운</td><td>명혁,임동권,김지훈,유민환</td><td><a href="2020_1st/ch26/ch26_Trie.md"</a>ch26</td>
   <tr><td>2020-03-01</td><td>명혁  </td><td>임동권,이성운,유민환</td><td><a href="2020_1st/ch27-28/ch27-28(1).md"</a>ch27~28(1)</td>
   <tr><td>2020-03-21</td><td>김지훈</td><td>명혁,임동권,이성운,유민환,김지훈</td><td><a href="2020_1st/ch27-28/ch28(2).md"</a>ch28(2)</td>
-  <tr><td>2020-04-04</td><td>이호승</td><td>명혁,임동권,이성운,유민환</td><td>ch29</td>
+  <tr><td>2020-04-04</td><td>이호승</td><td>명혁,임동권,이성운,유민환</td><td><a href="2020_1st/ch29/ch29.md"</a>ch29</td>
   <tr><td>2020-04-18</td><td>임동권</td><td>명혁,임동권,이성운,김지훈,이호승</td><td><a href="2020_1st/ch30/ch30(1).md"</a>ch30(1)</td>
   <tr><td>2020-05-02</td><td>이성운</td><td>명혁,임동권,이성운,이호승</td><td><a href="2020_1st/ch30/ch30(2).md"</a>ch30(2)</td>
   <tr><td>2020-05-09</td><td>명혁  </td><td>임동권,이성운,김지훈</td><td><a href="2020_1st/ch31/ch31.md"</a>ch31</td>
