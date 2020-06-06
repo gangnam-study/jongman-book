@@ -2,7 +2,7 @@
 <table>
   <tr><th>구분</th><th>내용</th></tr>
   <tr><td align="center">목표</td><td><a href="https://book.naver.com/bookdb/book_detail.nhn?bid=7058764">종만북</a> 마스터하기</td></tr>
-  <tr><td align="center">멤버</td><td>이호승, 유민환, 임동권, 이성운, 명혁, 김지훈, 박창훈 등 7명 (발표순서 동일) </td></tr>
+  <tr><td align="center">멤버</td><td>이호승, 유민환, 임동권, 이성운, 명혁, 김지훈, 박창훈, 장진왕 등 8명 (발표순서 동일) </td></tr>
   <tr><td align="center">시간,장소</td><td>매주 토요일 11~13시 (코로나로 인한 온라인 스터디 진행 중)</td></tr>
   <tr>
     <td align="center">Ground Rule</td>
@@ -11,7 +11,7 @@
       2. 발표자료에 제한은 없으며 칠판만 사용해도 됨<br>
       3. 발표준비를 못하면 스터디룸을 취소할 수 있도록 금요일까지 얘기해주기<br>
       4. 탈퇴시에도 부담없이 얘기하기 (발표순서 조정을 위해 2주 전에는 말해주기)<br>
-      5. 자유롭게 서로 질문하고 잘하시는 분들은 친절하게 알려주기 >> 상향평준화<br>
+      5. 자유롭게 서로 질문하고 잘하시는 분들은 친절하게 알려주기<br>
     </td>
   </tr>
 </table>
@@ -23,7 +23,7 @@
 #### 2020년 하반기
 <table>
   <tr><th>날짜</th><th>발표자</th><th>참가자</th><th>발표내용</th></tr>
-  <tr><td>2020-06-06</td><td>유민환</td><td></td><td>ch06</td>
+  <tr><td>2020-06-06</td><td>유민환</td><td>이성운,임동권,박창훈,장진왕,명혁,김지훈</td><td>ch06</td>
   <tr><td>2020-06-13</td><td>임동권</td><td> </td><td> </td>
   <tr><td>2020-06-20</td><td>이성운</td><td> </td><td> </td>
   <tr><td>2020-06-27</td><td>명혁  </td><td> </td><td> </td>
