@@ -1,7 +1,7 @@
-## 스터디 소개
+## :musical_note: 스터디 소개
 <table>
   <tr><th>구분</th><th>내용</th></tr>
-  <tr><td align="center">목표</td><td><a href="https://book.naver.com/bookdb/book_detail.nhn?bid=7058764">종만북</a> 마스터하기</td></tr>
+  <tr><td align="center">목표</td><td><a href="https://book.naver.com/bookdb/book_detail.nhn?bid=7058764">종만북:notebook_with_decorative_cover:</a> 마스터하기</td></tr>
   <tr><td align="center">멤버</td><td>유민환, 임동권, 이성운, 명혁, 김지훈, 박창훈, 이호승, 장진왕 등 8명 (발표순서 동일) </td></tr>
   <tr><td align="center">시간,장소</td><td>매주 토요일 11~13시 (코로나로 인한 온라인 스터디 진행 중)</td></tr>
   <tr>
@@ -18,7 +18,7 @@
 
 &nbsp;  
 
-## 스터디 일정
+## :musical_note: 스터디 일정
 
 #### 2020년 하반기
 <table>
@@ -39,7 +39,7 @@
 
 &nbsp;  
 
-## 지난 일정
+## :musical_note: 지난 일정
 
 #### 2019년 하반기
 <details>
