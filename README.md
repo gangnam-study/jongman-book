@@ -2,7 +2,7 @@
 <table>
   <tr><th>구분</th><th>내용</th></tr>
   <tr><td align="center">목표</td><td><a href="https://book.naver.com/bookdb/book_detail.nhn?bid=7058764">종만북</a> 마스터하기</td></tr>
-  <tr><td align="center">멤버</td><td>유민환, 임동권, 이성운, 명혁, 김지훈, 박창훈, 이호승, 장진왕 등 8명 (발표순서 동일) </td></tr>
+  <tr><td align="center">멤버</td><td>유민환, 임동권, 이성운, 명혁, 박창훈, 이호승, 장진왕 등 7명 (발표순서 동일) </td></tr>
   <tr><td align="center">시간,장소</td><td>매주 토요일 11~13시 (코로나로 인한 온라인 스터디 진행 중)</td></tr>
   <tr>
     <td align="center">Ground Rule</td>
@@ -27,14 +27,14 @@
   <tr><td>2020-06-13</td><td>임동권</td><td>명혁,장진왕,이호승,박창훈</td><td><a href="docs/2020_2nd/ch07/divide_and_conquer_01.md">ch07(1)</td>
   <tr><td>2020-06-27</td><td>이성운</td><td>명혁,임동권,장진왕,박창훈</td><td><a href="docs/2020_2nd/ch07/divide_and_conquer_02.md">ch07(2)</td>
   <tr><td>2020-07-04</td><td>명혁  </td><td> </td><td> </td>
-  <tr><td>2020-07-11</td><td>김지훈</td><td> </td><td> </td>
-  <tr><td>2020-07-18</td><td>박창훈</td><td> </td><td>	</td>
-  <tr><td>2020-07-25</td><td>이호승</td><td> </td><td> </td>
-  <tr><td>2020-08-01</td><td>장진왕</td><td> </td><td> </td>
-  <tr><td>2020-08-08</td><td>유민환</td><td> </td><td> </td>
-  <tr><td>2020-08-15</td><td>임동권</td><td> </td><td>	</td>
-  <tr><td>2020-08-22</td><td>이성운</td><td> </td><td>	</td>
-  <tr><td>2020-08-29</td><td>명혁  </td><td> </td><td>	</td>
+  <tr><td>2020-07-11</td><td>박창훈</td><td> </td><td> </td>
+  <tr><td>2020-07-18</td><td>이호승</td><td> </td><td>	</td>
+  <tr><td>2020-07-25</td><td>장진왕</td><td> </td><td> </td>
+  <tr><td>2020-08-01</td><td>유민환</td><td> </td><td> </td>
+  <tr><td>2020-08-08</td><td>임동권</td><td> </td><td> </td>
+  <tr><td>2020-08-15</td><td>이성운</td><td> </td><td>	</td>
+  <tr><td>2020-08-22</td><td>명혁  </td><td> </td><td>	</td>
+  <tr><td>2020-08-29</td><td>박창훈</td><td> </td><td>	</td>
 </table>
 
 &nbsp;  
