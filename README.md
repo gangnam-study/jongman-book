@@ -26,7 +26,7 @@
   <tr><td>2020-06-06</td><td>유민환</td><td>이성운,임동권,박창훈,장진왕,명혁,김지훈</td><td><a href="docs/2020_2nd/ch06/README.md">ch06</a></td>
   <tr><td>2020-06-13</td><td>임동권</td><td>명혁,장진왕,이호승,박창훈</td><td><a href="docs/2020_2nd/ch07/divide_and_conquer_01.md">ch07(1)</a></td>
   <tr><td>2020-06-27</td><td>이성운</td><td>명혁,임동권,장진왕,박창훈</td><td><a href="docs/2020_2nd/ch07/divide_and_conquer_02.md">ch07(2)</a></td>
-  <tr><td>2020-07-04</td><td>명혁  </td><td>박창훈,장진왕,이호승</td><td><a href="docs'2020_2nd/ch08/ch08(1).md">ch08(1)</a></td>
+  <tr><td>2020-07-04</td><td>명혁  </td><td>박창훈,장진왕,이호승</td><td><a href="docs/2020_2nd/ch08/ch08(1).md">ch08(1)</a></td>
   <tr><td>2020-07-11</td><td>박창훈</td><td> </td><td> </td>
   <tr><td>2020-07-18</td><td>이호승</td><td> </td><td>	</td>
   <tr><td>2020-07-25</td><td>장진왕</td><td> </td><td> </td>
