@@ -29,12 +29,12 @@
   <tr><td>2020-07-04</td><td>명혁  </td><td>박창훈,장진왕,임동권</td><td><a href="docs/2020_2nd/ch08/ch08(1).md">ch08(1)</a></td>
   <tr><td>2020-07-18</td><td>박창훈</td><td>명혁,장진왕,이호승</td><td><a href="docs/2020_2nd/ch08/ch08(2).md">ch08(2)</a></td>
   <tr><td>2020-08-01</td><td>이호승</td><td> </td><td>	</td>
-  <tr><td>2020-08-08</td><td>장진왕</td><td> </td><td> </td>
-  <tr><td>2020-08-15</td><td>유민환</td><td> </td><td> </td>
-  <tr><td>2020-08-22</td><td>임동권</td><td> </td><td> </td>
-  <tr><td>2020-08-29</td><td>이성운</td><td> </td><td>	</td>
-  <tr><td>2020-09-05</td><td>명혁  </td><td> </td><td>	</td>
-  <tr><td>2020-09-12</td><td>박창훈</td><td> </td><td>	</td>
+  <tr><td>2020-08-22</td><td>장진왕</td><td> </td><td> </td>
+  <tr><td>2020-08-29</td><td>유민환</td><td> </td><td> </td>
+  <tr><td>2020-09-05</td><td>임동권</td><td> </td><td> </td>
+  <tr><td>2020-09-12</td><td>이성운</td><td> </td><td>	</td>
+  <tr><td>2020-09-19</td><td>명혁  </td><td> </td><td>	</td>
+  <tr><td>2020-09-26</td><td>박창훈</td><td> </td><td>	</td>
 </table>
 
 &nbsp;  
